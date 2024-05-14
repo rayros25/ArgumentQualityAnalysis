@@ -1,0 +1,11 @@
+argument,topic,set,WA,MACE-P,stance_WA,stance_WA_conf
+"""marriage"" isn't keeping up with the times.  abandon the old thinking and bring something that incorporates all unions - not just those with a man and woman.",We should abandon marriage,train,0.846164614,0.297659077,1,1
+.a multi-party system would be too confusing and getting a consensus from the general public would be difficult.,We should adopt a multi-party system,train,0.89127054,0.726133019,-1,1
+`people reach their limit when it comes to their quality of life and should be able to end their suffering.  this can be done with little or no suffering  by assistance and the person is able to say good bye.,Assisted suicide should be a criminal offence,train,0.730395151,0.225211679,-1,1
+"100% agree, should they do that, it would be a good thing",We should abolish safe spaces,train,0.236685682,0.004103873,1,0.805516663
+A ban on naturopathy creates a cohesive front between scientists and the government that can combat the anti-science rhetoric of naturopathic industries.,We should ban naturopathy,train,0.753805285,0.337723646,1,1
+"A ban would be disasterous for the surrogate mothers. Surrogacy will happenn anyway, because the need for it exists, but there will be no health and legal standards for the proccess.",Surrogacy should be banned,train,1,0.96366698,-1,1
+"A ban would be inffective, people who want a baby so badly, will find a way to go through with it. Either illegaly or in some foresaken country which doesn't ban it.",Surrogacy should be banned,train,0.467092243,0.041720721,-1,0.907112837
+a ban would only increase the already concerning trend to go to dangerous surgeons abroad,We should ban cosmetic surgery,train,0.981811806,0.971312317,-1,1
+"A basic principle of punishment is that it should be proportional to the crime, and therefore capital punishment is the only legitimate response to a crime such as first degree murder.",We should abolish capital punishment,train,1,0.992866894,-1,0.928446736
+"a birth defect or a disfiguring injury can highly impact someone's self esteem, with parental permission minors should have the opportunity to correct this.",We should ban cosmetic surgery for minors,train,0.951107043,0.939252944,-1,0.928336814
