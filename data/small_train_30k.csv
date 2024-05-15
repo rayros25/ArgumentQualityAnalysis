@@ -1,4 +1,4 @@
-argument,topic,set,WA,MACE-P,stance_WA,stance_WA_conf
+text,topic,set,labels,MACE-P,stance_WA,stance_WA_conf
 """marriage"" isn't keeping up with the times.  abandon the old thinking and bring something that incorporates all unions - not just those with a man and woman.",We should abandon marriage,train,0.846164614,0.297659077,1,1
 .a multi-party system would be too confusing and getting a consensus from the general public would be difficult.,We should adopt a multi-party system,train,0.89127054,0.726133019,-1,1
 `people reach their limit when it comes to their quality of life and should be able to end their suffering.  this can be done with little or no suffering  by assistance and the person is able to say good bye.,Assisted suicide should be a criminal offence,train,0.730395151,0.225211679,-1,1
