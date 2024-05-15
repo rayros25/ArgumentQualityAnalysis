@@ -1,81 +1,64 @@
 import pandas as pd
 from datasets import Dataset
-from sklearn.model_selection import train_test_split
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, TrainingArguments, Trainer
+from sklearn.metrics import mean_squared_error
 
-# Load your data
-df = pd.read_csv('./data/small_train_30k.csv')
+# Load training data
+df_train = pd.read_csv('./data/train_30k.csv')
+df_train = df_train[['text', 'label']]
 
-# df = df[['argument', 'WA']]
-# df =df[['text', 'labels']]
+# Load testing data
+df_test = pd.read_csv('./data/test_30k.csv')
+df_test = df_test[['text', 'label']]
 
-# Assuming your CSV has columns 'text' for the input text and 'score' for the labels
-# TODO: text -> argument, score -> WA
-train_df, eval_df = train_test_split(df, test_size=0.1, random_state=42)
-
-# Convert to Huggingface Dataset
-train_dataset = Dataset.from_pandas(train_df)
-eval_dataset = Dataset.from_pandas(eval_df)
-# TODO: Why is this giving me errors?
+train_dataset = Dataset.from_pandas(df_train, preserve_index=False)
+eval_dataset  = Dataset.from_pandas(df_test, preserve_index=False)
 
 
-from transformers import AutoTokenizer
-
-# Load tokenizer
+# Tokenize the data
 tokenizer = AutoTokenizer.from_pretrained('bert-base-uncased')
 
 def tokenize_function(examples):
-    return tokenizer(examples['text'], padding='max_length', truncation=True, max_length=128)
+    return tokenizer(examples['text'], padding    = 'max_length', 
+                                       truncation = True, 
+                                       max_length = 128)
+train_dataset = train_dataset.map(tokenize_function, batched = True)
+eval_dataset = eval_dataset.map(tokenize_function, batched = True)
 
-# Apply tokenizer
-train_dataset = train_dataset.map(tokenize_function, batched=True)
-eval_dataset = eval_dataset.map(tokenize_function, batched=True)
-
-# Set the format to PyTorch tensors
-train_dataset.set_format(type='torch', columns=['input_ids', 'attention_mask', 'labels'])
-eval_dataset.set_format(type='torch', columns=['input_ids', 'attention_mask', 'labels'])
-
-
-from transformers import AutoModelForSequenceClassification
 
 # Load pre-trained BERT model and modify for regression
-model = AutoModelForSequenceClassification.from_pretrained('bert-base-uncased', num_labels=1)
+model = AutoModelForSequenceClassification.from_pretrained('bert-base-uncased',
+                                                           num_labels = 1)
 
 
-from transformers import TrainingArguments, Trainer
-
-# Define training arguments
-training_args = TrainingArguments(
-    output_dir='./results',
-    num_train_epochs=3,
-    per_device_train_batch_size=8,
-    per_device_eval_batch_size=8,
-    warmup_steps=500,
-    weight_decay=0.01,
-    logging_dir='./logs',
-    logging_steps=10,
-    evaluation_strategy='epoch'
-)
-
-# Define evaluation metric
-import numpy as np
-from sklearn.metrics import mean_squared_error
-
+# Prepare the trainer, then train the model
 def compute_metrics(eval_pred):
-    logits, labels = eval_pred
-    predictions = np.squeeze(logits)
+    predictions, labels = eval_pred
     return {'mse': mean_squared_error(labels, predictions)}
 
-# Initialize Trainer
-trainer = Trainer(
-    model=model,
-    args=training_args,
-    train_dataset=train_dataset,
-    eval_dataset=eval_dataset,
-    compute_metrics=compute_metrics
+training_args = TrainingArguments(
+    output_dir                  = './results',
+    num_train_epochs            = 3,
+    per_device_train_batch_size = 8,
+    per_device_eval_batch_size  = 8,
+    warmup_steps                = 500,
+    weight_decay                = 0.01,
+    logging_dir                 = './logs',
+    logging_steps               = 10,
+    evaluation_strategy         = 'epoch'
 )
 
-# Train the model
+trainer = Trainer(
+    model           = model,
+    args            = training_args,
+    train_dataset   = train_dataset,
+    eval_dataset    = eval_dataset,
+    compute_metrics = compute_metrics
+)
+
 trainer.train()
+
+
 # Save model and tokenizer
-model.save_pretrained('./fine-tuned-bert')
-tokenizer.save_pretrained('./fine-tuned-bert')
+model.save_pretrained('./fine-tuned-bert-model')
+tokenizer.save_pretrained('./fine-tuned-bert-tokenizer')
