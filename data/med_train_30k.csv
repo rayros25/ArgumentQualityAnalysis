@@ -1,0 +1,500 @@
+text,topic,set,label,MACE-P,stance_WA,stance_WA_conf
+"""marriage"" isn't keeping up with the times.  abandon the old thinking and bring something that incorporates all unions - not just those with a man and woman.",We should abandon marriage,train,0.846164614,0.297659077,1,1
+.a multi-party system would be too confusing and getting a consensus from the general public would be difficult.,We should adopt a multi-party system,train,0.89127054,0.726133019,-1,1
+`people reach their limit when it comes to their quality of life and should be able to end their suffering.  this can be done with little or no suffering  by assistance and the person is able to say good bye.,Assisted suicide should be a criminal offence,train,0.730395151,0.225211679,-1,1
+"100% agree, should they do that, it would be a good thing",We should abolish safe spaces,train,0.236685682,0.004103873,1,0.805516663
+A ban on naturopathy creates a cohesive front between scientists and the government that can combat the anti-science rhetoric of naturopathic industries.,We should ban naturopathy,train,0.753805285,0.337723646,1,1
+"A ban would be disasterous for the surrogate mothers. Surrogacy will happenn anyway, because the need for it exists, but there will be no health and legal standards for the proccess.",Surrogacy should be banned,train,1,0.96366698,-1,1
+"A ban would be inffective, people who want a baby so badly, will find a way to go through with it. Either illegaly or in some foresaken country which doesn't ban it.",Surrogacy should be banned,train,0.467092243,0.041720721,-1,0.907112837
+a ban would only increase the already concerning trend to go to dangerous surgeons abroad,We should ban cosmetic surgery,train,0.981811806,0.971312317,-1,1
+"A basic principle of punishment is that it should be proportional to the crime, and therefore capital punishment is the only legitimate response to a crime such as first degree murder.",We should abolish capital punishment,train,1,0.992866894,-1,0.928446736
+"a birth defect or a disfiguring injury can highly impact someone's self esteem, with parental permission minors should have the opportunity to correct this.",We should ban cosmetic surgery for minors,train,0.951107043,0.939252944,-1,0.928336814
+"a child cannot just walk into a cosmetic surgeons and get unnecessary surgery, parental consent and medical regulations are in place to ensure this is only conducted safely and on worthy cases of deformity",We should ban cosmetic surgery for minors,train,0.901065136,0.972616324,-1,0.607460362
+a child is a gift and should be cherished for whatever sex they are,We should legalize sex selection,train,0.478142994,0.001903521,-1,1
+"a child is still growing, physically and mentally, cosmetic surgery should not be considered until they are an adult and able to make these decisions",We should ban cosmetic surgery for minors,train,1,0.714954857,1,1
+a child's body is still developing and the faults that a child sees in themselves may resolve when they're an adult,We should ban cosmetic surgery for minors,train,1,0.998986628,1,1
+a child's value should not be based upon their sex.  they are human no matter what.,We should legalize sex selection,train,0.65275696,0.015381622,-1,1
+a city is the best place for people to have what they need near by,We should fight urbanization,train,0.683461552,0.161095644,-1,1
+"A collectivist culture cultivates desirable values such as being kind, generous, and attentive to the needs of others.",We should oppose collectivism,train,0.885476553,0.957329342,-1,0.891702047
+a college degree is no longer a guarantee that you will have a job nor is it even required for decent careers anymore. it is a waste of money as most degrees are becoming obsolete.,We should subsidize student loans,train,0.82029628,0.645738584,-1,0.928227697
+"a college education is too expensive for most people to afford.  yet, it is almost a requirement to get a great job.  by helping to pay student loans we are also helping our economy and providing better jobs.",We should subsidize student loans,train,0.88595647,0.938525563,1,1
+a company can pay an executive anything it wants.  if the person is a great value to his company his salary no matter how high is worth it.,We should limit executive compensation,train,0.910804935,0.753564682,-1,1
+a company can pay higher to their employees if executive compensation is limited,We should limit executive compensation,train,0.543411559,0.015683626,1,0.905081432
+a company has the right to determine how much executive compensation that they can pay out.,We should limit executive compensation,train,0.629429628,0.135287585,-1,0.901445921
+a company should be able to decide on their own how much they want to pay any of their employees,We should limit executive compensation,train,0.881836684,0.969036661,-1,1
+a company should be able to pay whatever they need to to attract the right talent. they will only pay what the market determines the person is worth.,We should limit executive compensation,train,0.798560865,0.410583207,-1,0.770239503
+a compulsory vote we make everyone contribute their opinion.,We should introduce compulsory voting,train,0.639372799,0.009431057,1,1
+a consumer doesn't know what's really in natural remedies since there is no regulation,We should ban naturopathy,train,1,0.916790048,1,1
+a cosmetic procedure may be necessary for a horribly scarred child.,We should ban cosmetic surgery for minors,train,0.808176407,0.684453944,-1,1
+A country is entitled to develop any weapon that will help it defend itself against an enemy.,We should fight for the abolition of nuclear weapons,train,0.693320965,0.807195588,-1,1
+a country should have the right to defend itself in whatever way it sees fit even if they do not intend to use nuclear weapons.,We should fight for the abolition of nuclear weapons,train,0.867678521,0.757894899,-1,1
+A country with a diverse population is better represented by a multi-party system.,We should adopt a multi-party system,train,0.867024447,0.999748492,1,1
+"A couple doesn't have to bind themselves legally to one another, by marrying, to prove their love.",We should abandon marriage,train,0.729708699,0.180185489,1,1
+a cure or treatment may be discovered shortly after having ended someone's life unnecessarily.,Assisted suicide should be a criminal offence,train,0.830767585,0.603442273,1,1
+"a democratic and free society is said to respect bodily autonomy, therefore we should have the right to do what we want with our organs, including using them in a legal organ trade",We should legalize organ trade,train,1,0.928966338,1,1
+a disadvantage of naturopathy is when natural medicines are taken to treat medical conditions without seeking qualified medical help,We should ban naturopathy,train,0.786455429,0.359889845,1,1
+a father figure that takes an active role in their child's life has a positive effect on the child,We should subsidize stay-at-home dads,train,0.572805817,0.082785548,1,0.610690889
+"a father is entitled to sacrifice his work for time with his new-born, but this is a lifestyle choice and should be self-funded, not financially supported by the tax payer.",We should subsidize stay-at-home dads,train,1,0.972989384,-1,0.601570978
+a few loud mouths should not be able to change years of law,We should limit judicial activism,train,0.402225161,3.31E-05,1,1
+"A flag is just a symbol and carries no real meaning in and of itself. Therefore, burning it is not a big deal.",We should prohibit flag burning,train,0.866672906,0.783845894,-1,0.896017197
+a flag is mass produced and has no added commercial value other than the material it is made with,We should prohibit flag burning,train,0.603874216,0.133357612,-1,0.745387959
+"a flag is no more than a symbol, if flag burning were banned you would have to ban the burning of football shirts, etc",We should prohibit flag burning,train,1,0.944616324,-1,1
+a flag is only a piece of cloth and there is no prohibition against burning cloth,We should prohibit flag burning,train,0.610950479,0.0009339,-1,1
+a flag is only a symbol and permitting burning it as an expression of anger is free speech,We should prohibit flag burning,train,0.83781112,0.82076391,-1,1
+a flag is only really a peace of cloth and doesn't actually hurt anybody.,We should prohibit flag burning,train,0.50805724,0.013245956,-1,1
+a flag symbolizes a country and by burning it you are showing disrespect,We should prohibit flag burning,train,0.958760476,0.908157556,1,1
+a gender neutral language should be adopted so that conversations and language would be fair for everyone.,We should adopt gender-neutral language,train,1,0.916760962,1,1
+a gender neutral language would improve gender equality,We should adopt gender-neutral language,train,0.723600547,0.314975271,1,1
+"a gender-neutral language is what we should all learn to speak, it will help  dealing with racism and other social issues",We should adopt gender-neutral language,train,0.696053102,0.23386457,1,1
+a gender-neutral language would take hundreds of years to adopt to and therefore should be abandoned,We should adopt gender-neutral language,train,0.717420971,0.345162727,-1,1
+A good portion of the telemarketers these days are not even human and this is illegal and Immoral,We should ban telemarketing,train,0.590752965,0.000237642,1,1
+A government-funded Wikipedia would become a government-controlled Wikipedia.,We should subsidize Wikipedia,train,1,0.99889274,-1,1
+a group can function more effectively and with greater impact when working together as opposed to individually,We should oppose collectivism,train,0.649438545,0.061585121,-1,0.92938411
+a group of collective thoughts in line with one stance makes it greater.,We should oppose collectivism,train,0.515929983,0.011339073,-1,1
+a high turnout is important for a proper democratic mandate and the functioning of democracy,We should introduce compulsory voting,train,1,0.990959788,1,1
+a human being at death can help others to live and through organ trade help their families live,We should legalize organ trade,train,0.776603164,0.174780608,1,0.926547643
+a human rights activist spoke out that people should not be racially profiled because they belonged to a certain group or have different colors.,We should end racial profiling,train,0.467666058,0.010998268,1,1
+a judge allowing their own personal feelings to become involved in a ruling cause said ruling to be unfair.,We should limit judicial activism,train,0.886716086,0.943759479,1,1
+a judge is a credible voted in individual whose decisions should be trusted.,We should limit judicial activism,train,0.796514812,0.258393394,-1,1
+"a judge is merely supposed to interpret whether legal issues are constitutional -- judicial activism is effectively legislating from the bench, which exceeds what the judicial branch is allowed to do.",We should limit judicial activism,train,0.733259128,0.768438114,1,0.712282107
+a judge is not god and therefore should not make all of the decisions.,We should limit judicial activism,train,0.645038339,0.014374563,1,1
+a judge is suppose to be held in a high regard and should abide by the laws they took an oath to uphold without bias.,We should limit judicial activism,train,0.850495682,0.711094591,1,0.803353987
+"a judge is suppose to uphold the rule of law, not alter it with their own opinions/views/beliefs.",We should limit judicial activism,train,1,0.894754685,1,1
+a judge should be allowed to determine the constitutionality of an argument by using their own beliefs in part.,We should limit judicial activism,train,0.909260166,0.950336313,-1,0.89803277
+a judge shouldnt be able to show their personal views.,We should limit judicial activism,train,0.618884716,0.060952293,1,0.788940635
+a judges opinion should not be relevant in a decision that they make as a judge,We should limit judicial activism,train,0.896425919,0.528725278,1,0.904556736
+a judge's opinion should not take precedent over official laws.,We should limit judicial activism,train,1,0.938968429,1,1
+a judge's role is not to flaunt laws and override guidance but to enforce it. judicial activism is a step too far,We should limit judicial activism,train,1,0.900997019,1,1
+a jusge should be allowed to look at a crime and the situation the person was subjected to in regards to their acts as the punishment should be determined in regards to an individual situation.,We should limit judicial activism,train,0.702201807,0.239941155,-1,0.702269037
+a jusge should be allowed to make decisions based on certain situations and circumstances and make judgement using the information and issues presented rather than a strict generalized standard.,We should limit judicial activism,train,0.762386062,0.211898673,-1,1
+a jusge should follow the law rather than opnion as they are regarded as the highest power to judicate the laws they honor to serve and uphold.,We should limit judicial activism,train,0.9000733,0.505571111,1,0.810454946
+a key advantage of a multi-party system is that voters have a choice of which political party they can choose to elect.,We should adopt a multi-party system,train,0.977855246,0.775433948,1,1
+a lack of confidence due to appearance can have a crippling impact on poeple's lives and cosmetic surgery can help reduce this.,We should ban cosmetic surgery,train,0.943026071,0.982727947,-1,1
+a lack of control means there is nobody to step in if it goes wrong,We should stop the development of autonomous cars,train,0.670776465,0.050557159,1,1
+a lack of voting leads to a situation were their isn't fair representation in parliament.,We should introduce compulsory voting,train,1,0.926138098,1,1
+a language that does not include gender takes away from the personality of people.,We should adopt gender-neutral language,train,0.663691256,0.258451502,-1,1
+a larger group of people can often offer more value with power in numbers. there is more value to a large group with more ideas and more manpower.,We should oppose collectivism,train,0.744154915,0.365297667,-1,1
+a legal organ trade would boost the availability of transplant organs and save lives,We should legalize organ trade,train,0.91692616,0.985871844,1,1
+"a legalised organ trade would dramatically improve the stock of transplant organs, saving lives.",We should legalize organ trade,train,1,0.999937717,1,1
+"a legalised organ trade would increase the amount of stock available for medical procedures, and allow the procedure to become safer and more regulated.",We should legalize organ trade,train,1,0.881625001,1,1
+"a legalised trade would disproportionately harm those from poorer economic backgrounds, legitimising the huge medical risks involved.",We should legalize organ trade,train,0.790330746,0.779496826,-1,0.92766711
+"A legalized market would exploit the poor who, as a result of financial problems, would be the ones most likely to sell their organs.",We should legalize organ trade,train,1,0.998937389,-1,1
+a lifestyle that does not hurt others should be legal,We should legalize polygamy,train,0.461355421,0.01739913,1,1
+a lot more work and research could get done if we abandoned television.,We should abandon television,train,0.766087264,0.380684593,1,1
+"a lot of gender neutral language assumes the male version of the word as the newly accepted neutral word. this doesn’t make it neutral, just assumes the male is best.",We should adopt gender-neutral language,train,0.56094296,0.03073985,-1,0.411606393
+"a lot of naturopaths suggest things without scientific backing, which may harm the patient.",We should ban naturopathy,train,1,0.884242489,1,1
+a lot of the criminals fit a specific ethnicity so for security purposes and saving lives police should be allowed to racially profile in exchange for a little bit of suffering,We should end racial profiling,train,0.811590203,0.842491588,-1,0.889347942
+a lot of times the physical and emotional after effects of cosmetic surgery defeat the main purpose of getting the surgery.,We should ban cosmetic surgery,train,1,0.825804012,1,1
+"a lot of times, people who homeschool aren't qualified to teach all the subjects needed for a high school  diploma.",Homeschooling should be banned,train,1,0.722114629,1,1
+a lot of what they do is dangerous including opposing vaccines.,We should ban naturopathy,train,0.835787168,0.742303749,1,1
+a lot of woman who prostitute themselves were sexually assaulted themselves so it may be better to have better options.,We should legalize prostitution,train,0.636189985,0.075838553,1,0.583335328
+a low turn out means that the elected government does not represent the true wishes of the country. making voting compulsory would mean that an elected government had a true mandate.,We should introduce compulsory voting,train,1,0.981712522,1,1
+a majority of students are unable to pay for the high cost of attending college,We should subsidize student loans,train,1,0.772791096,1,1
+"a man or woman has the right to do what they wish with their body, and if they choose to sell it for sex, the government should not interfere.",We should legalize prostitution,train,1,0.896834081,1,0.808369044
+a mandatory retirement age allows employers to be able to bring fresh talent into their workforce,We should end mandatory retirement,train,0.592856958,0.555817174,-1,1
+"A mandatory retirement age ensures that at least some positions open up in a given profession on a predictable basis, allowing younger workers to enter as older workers exit",We should end mandatory retirement,train,0.907162426,0.99936336,-1,0.824163974
+a mandatory retirement age helps employers regularly refresh the workforce with fresh talent,We should end mandatory retirement,train,0.517058292,0.202322077,-1,1
+a man's place is in the workforce to provide for his family.  why should anyone else have to pay for that guy's family just because he doesn't want to go to work?,We should subsidize stay-at-home dads,train,0.495053967,0.00175686,-1,1
+"a marriage is a piece of paper, nothing more.",We should abandon marriage,train,0.639853145,0.04342911,1,0.900469878
+A miniature arms race between missile defense developers and missile developers creates an arms race that costs a massive amount to any state with either industry.,We should fight for the abolition of nuclear weapons,train,0.599073311,0.002113021,1,1
+a minor does not have the mental and emotional development needed to make decisions that have long term effects,We should ban cosmetic surgery for minors,train,0.979063676,0.969868619,1,1
+a minor is in no way responsible enough to make the decision of getting cosmetic surgery.  you see too many kids doing it because they want to look like a pop idol fad.  it is dangerous.,We should ban cosmetic surgery for minors,train,0.848459328,0.841666358,1,1
+a minor is not old enough to make decisions on something that will change them forever,We should ban cosmetic surgery for minors,train,1,0.675649135,1,0.917916305
+a minor is still growing so any cosmetic surgery may well result in a less than desirable result when they are fully grown.,We should ban cosmetic surgery for minors,train,0.853299985,0.558393445,1,1
+a minor should be allowed to under go cosmetic surgery if it would improve how they see themselves and help their confidence.  such things would follow them into adulthood in a positive manner.,We should ban cosmetic surgery for minors,train,0.946942126,0.91065792,-1,1
+a minor should have control over their own body,We should ban cosmetic surgery for minors,train,0.561735508,0.097095238,-1,1
+a mistake could cause permanent disfigurement of a person,We should ban cosmetic surgery,train,0.897362826,0.872930528,1,1
+"a modern society espousing gender equality has a duty to subsidize stay-at-home dads, just as it would support mothers - this both improves womens' career prospects, and fathers' emotional bonding.",We should subsidize stay-at-home dads,train,1,0.949778768,1,1
+a mulit-party system is needed because there are more opinions than just democrat and repulblican,We should adopt a multi-party system,train,0.842355956,0.823701965,1,1
+"a multi party system allows far better choices for the diverse population, meaning they can find someone to vote for that they truly believe in and participate in a democracy better",We should adopt a multi-party system,train,1,0.981968983,1,1
+a multi party system allows for a larger group of qualified individuals,We should adopt a multi-party system,train,0.59626369,0.085352146,1,1
+a multi party system creates chaos by giving too many choices to the people,We should adopt a multi-party system,train,0.903183785,0.837538158,-1,1
+a multi party system does not always help things. what is to say we get multiple bad choices and we have to end up choosing the lesser of two evils?,We should adopt a multi-party system,train,0.855504545,0.582609713,-1,1
+a multi party system ensures that everyone’s viewpoint can be represented and taken into account rather than only a minority.,We should adopt a multi-party system,train,1,0.838511823,1,1
+a multi party system helps ensure all people are represented and that no one party or faction becomes too strong. multi party systems are more equitable at all levels and not all in favor of one group.,We should adopt a multi-party system,train,1,0.999029941,1,1
+"a multi party system is too volatile, there's no stability and no consistency",We should adopt a multi-party system,train,0.956774768,0.770773044,-1,0.92816499
+A multi party system might be too confusing because there would be too many candidates with too many opinions and would be hard to vote.,We should adopt a multi-party system,train,0.858611343,0.603647466,-1,1
+a multi party system will help us choose the best person for the job.,We should adopt a multi-party system,train,0.920955683,0.611386028,1,1
+a multi party system will lead to the rise of fringe groups that do not represent the will of the people.,We should adopt a multi-party system,train,0.875516265,0.772422919,-1,0.900103052
+a multi party system would bring many new & fresh ideas into the forefront,We should adopt a multi-party system,train,1,0.92530971,1,1
+a multi party system would ensure more people get their viewpoint taken into account.,We should adopt a multi-party system,train,1,0.997499847,1,1
+"a multi party system would represent all those that voted, not just those that voted for one party so a fairer system of governance would be in place.",We should adopt a multi-party system,train,0.969549714,0.717913089,1,1
+a multi party system would spend more time arguing than resolving problems and wouldn’t be beneficial.,We should adopt a multi-party system,train,0.834587451,0.98204329,-1,0.896693244
+a multi party sytem is not in agreement with the constitution.,We should adopt a multi-party system,train,0.629491034,0.074726201,-1,1
+a multi-oart system allows for more options and candidates that are more in line with certain populations as not everyone has the same political views.,We should adopt a multi-party system,train,0.861524267,0.501237207,1,1
+"a multi-oarty system can decrease the votes of a specific candidate, making the votes misappropriated.",We should adopt a multi-party system,train,0.226248768,0.001105207,-1,1
+a multi-party ensures that all people and voices are heard and represented.,We should adopt a multi-party system,train,0.972829744,0.89854631,1,1
+a multi-party is essential to allow for democracy and prevent autocratic regimes coming to power.,We should adopt a multi-party system,train,0.882314075,0.923349531,1,1
+a multi-party system allows a greater freedom of choice for voters to express their democratic right to vote for policies they would like to implimented.,We should adopt a multi-party system,train,0.88108555,0.461062187,1,1
+a multi-party system allows a greater number of views to be heard.,We should adopt a multi-party system,train,1,0.985583815,1,1
+a multi-party system allows a number of parties to enter government and is a benchmark of democracy.,We should adopt a multi-party system,train,1,0.759485097,1,1
+a multi-party system allows all political parties to be represented for all people,We should adopt a multi-party system,train,1,0.999962525,1,1
+a multi-party system allows for a broad range of ideas to be heard and implemented.,We should adopt a multi-party system,train,1,0.957623739,1,1
+"a multi-party system allows for a much more diverse spectrum of options for an individual to find the right party to vote for, to really represent them",We should adopt a multi-party system,train,1,0.990250695,1,1
+a multi-party system allows for diverse thinking and a larger choice for the people,We should adopt a multi-party system,train,1,0.942556155,1,1
+A multi-party system allows for greater choice in whom to vote for.  It allows each citizen to vote for the party that best fits their beliefs and represents their ideology.,We should adopt a multi-party system,train,1,0.996904945,1,1
+a multi-party system allows for greater freedom of choice and expression of opinion,We should adopt a multi-party system,train,0.84015815,0.999931546,1,1
+"a multi-party system allows for greater freedom of choice, as a greater number of major parties would cover more ideological viewpoints.",We should adopt a multi-party system,train,1,0.938720358,1,1
+a multi-party system allows for greater freedom of expression for the electorate and reduces the need to vote for who you disagree with the least,We should adopt a multi-party system,train,1,0.74865121,1,1
+a multi-party system allows for more choices to address the views and issues of the people that multi candidates provide.,We should adopt a multi-party system,train,1,0.848645704,1,1
+"a multi-party system allows for more ideas, more candidates, more voters turning out.",We should adopt a multi-party system,train,1,0.832482581,1,1
+a multi-party system allows for more unqualified people to get into the race,We should adopt a multi-party system,train,1,0.977281253,1,0.502035431
+a multi-party system allows for more views and ideals to be represented.,We should adopt a multi-party system,train,1,0.992378528,1,1
+a multi-party system allows for the airing of more viewpoints and would require politicians to build coalitions and compromise in order to get things accomplished.,We should adopt a multi-party system,train,1,0.951537531,1,1
+a multi-party system allows for the people to choose between sets of ideas they want to govern the country.,We should adopt a multi-party system,train,1,0.829069578,1,1
+A multi-party system allows open and constructive criticism of the ruling government and prevents tyranny.,We should adopt a multi-party system,train,1,0.999285063,1,1
+a multi-party system as this will ensure that all policies are agreed upon and not forced through by a small majority. it will also ensure that a wider section of beliefs and opinions is represented.,We should adopt a multi-party system,train,0.937324626,0.939902002,1,1
+a multiparty system blurs the citizenship of a vision and model of country. we should not adopt a multiparty system because it would waste valuable time to agree,We should adopt a multi-party system,train,0.757334863,0.847113898,-1,1
+a multi-party system brings diversity to the political realm which helps people better decide where there vote should go,We should adopt a multi-party system,train,0.890813007,0.835580813,1,1
+a multi-party system can bring continued bickering and endless in-fighting to a system of government that should be as simple as 'obey the law'.,We should adopt a multi-party system,train,0.75626388,0.3211728,-1,1
+a multi-party system can increase the views of the people and allow for more choices.,We should adopt a multi-party system,train,0.861389193,0.727640674,1,1
+a multi-party system can open the door to getting poor leaders out of office and creating change.,We should adopt a multi-party system,train,0.881290551,0.854835061,1,0.89416799
+a multi-party system can result of the election of someone who is supported by a small number of citizens,We should adopt a multi-party system,train,0.612015482,0.011172055,-1,0.600883966
+a multi-party system could add more complexity and create situations where issues become impossible to resolve.,We should adopt a multi-party system,train,0.944463172,0.986185536,-1,0.819167992
+a multi-party system could be very beneficial as it would allow for more opinions and more choices.,We should adopt a multi-party system,train,1,0.824498147,1,1
+a multi-party system could cause too much in fighting between groups that should be cooperating.,We should adopt a multi-party system,train,1,0.999640846,-1,1
+a multiparty system could increase political bureaucracy,We should adopt a multi-party system,train,0.971598521,0.870653629,-1,0.903311596
+a multi-party system could lead to more situations where a majority is not reached. this means that it could be harder to push policies through.,We should adopt a multi-party system,train,0.78422583,0.74717609,-1,0.92651746
+a multi-party system could make it harder for decisions to be made as more opinions will complicate things.,We should adopt a multi-party system,train,0.876806409,0.943180927,-1,1
+a multi-party system could mean that it is more difficult to agree on any answers as  it is more likely that there will not be a majority on issues.,We should adopt a multi-party system,train,0.910027661,0.847627399,-1,1
+a multi-party system creates chaos.  more is not merrier in this type of case.,We should adopt a multi-party system,train,0.756093157,0.272411544,-1,1
+a multi-party system enables the people to have more of a say in what happens in their country.,We should adopt a multi-party system,train,0.875781695,0.979870294,1,1
+a multi-party system encourages innovation and new ideas.,We should adopt a multi-party system,train,1,0.841579174,1,1
+a multi-party system encourages parties with different political views to work together and discourages polarising adversarial politics,We should adopt a multi-party system,train,0.978030505,0.940503652,1,0.908522486
+a multi-party system encourages weak and unstable coalition governments that are unable to pursue radical change,We should adopt a multi-party system,train,0.743776776,0.796649957,-1,0.927019071
+"a multi-party system ensures that voters have the chance to elect politicians that most closely align with their believes, lessening the chance that they have to compromise on things they feel are important.",We should adopt a multi-party system,train,0.704629766,0.339998464,1,1
+a multi-party system is clearly good for democracy. allowing opposing groups to work through their differences and give choice to the population in government elections.,We should adopt a multi-party system,train,0.899417949,0.932131562,1,1
+a multi-party system is enshrined in democracy. anyone should have his ideology and choose the party of his choice,We should adopt a multi-party system,train,0.782996179,0.354853192,1,1
+a multi-party system is great in that it provides voters with many different candidates with different views and ideas,We should adopt a multi-party system,train,1,0.99590785,1,1
+A multiparty system is less likely to cater to extremists who are now only represented by small extreme parties rather than larger parties.,We should adopt a multi-party system,train,0.783167638,0.487614788,1,1
+A multiparty system is less likely to have gridlock because there are more parties that are willing to compromise.,We should adopt a multi-party system,train,1,0.999826791,1,1
+a multiparty system is more representative of the will of the people,We should adopt a multi-party system,train,1,0.99236429,1,1
+A multi-party system is more responsive to a change or shift in public opinion.,We should adopt a multi-party system,train,0.873679164,0.885429407,1,0.893140576
+"a multi-party system is the fairest representation of all political viewpoints, and would increase the electorate's engagement with politics in general.",We should adopt a multi-party system,train,1,0.963118828,1,1
+"a multi-party system is the most democratic system available, since it gives recognition to a broader canvas of viewpoints.",We should adopt a multi-party system,train,0.885611737,0.80152,1,1
+a multi-party system lacks stability and costs huge amounts to run as many parties all campaign for their voice to be heard,We should adopt a multi-party system,train,0.876513296,0.605750453,-1,1
+a multi-party system leads to disorganization and chaos.,We should adopt a multi-party system,train,0.937835138,0.88764162,-1,0.901005519
+a multi-party system leads to too much division and there may never be an overall consensus,We should adopt a multi-party system,train,0.953416314,0.998736794,-1,0.894479893
+a multi-party system leads to unstable goverment and does not reflect the will of the people accurately,We should adopt a multi-party system,train,0.887521165,0.944763065,-1,0.900740845
+a multi-party system lets many views on important topics to be heard,We should adopt a multi-party system,train,1,0.98430146,1,1
+a multi-party system makes it much more difficult to collaborate on ideas.,We should adopt a multi-party system,train,0.736990795,0.413131281,-1,1
+a multi-party system makes sure more ideas are included.,We should adopt a multi-party system,train,0.869150183,0.873383396,1,1
+a multi-party system makes sure that one political party doesn't hold all the power.,We should adopt a multi-party system,train,1,0.746057157,1,1
+a multi-party system maximizes choice which would encourage greater voter participation.,We should adopt a multi-party system,train,1,0.880031401,1,1
+a multi-party system means that more opinions will be heard and people will get a greater choice of who to vote for.,We should adopt a multi-party system,train,0.909258961,0.985054729,1,0.807110985
+a multi-party system might allow for more and more diverse candidates to come to the forefront of each election.,We should adopt a multi-party system,train,1,0.999797724,1,1
+a multi-party system muddies the waters with too many ideas,We should adopt a multi-party system,train,0.477760689,0.033560556,-1,1
+a multi-party system never works because at the end of the day each party is out for themselves and don't work in the best interest of the people being represented.,We should adopt a multi-party system,train,0.95171883,0.790231174,-1,0.926487246
+"a multi-party system offers too many options and decreases the election voting for one candidate, spreading out the votes over too many options.",We should adopt a multi-party system,train,0.886849138,0.566596397,-1,1
+a multi-party system only makes it harder to choose a presidential candidate,We should adopt a multi-party system,train,0.60916301,0.300091207,-1,1
+A multi-party system prevents the leadership of a single party from setting policy without challenge.,We should adopt a multi-party system,train,1,0.998677298,1,0.905945769
+a multi-party system provides more choices to insure that the people have representation for their various beliefs beyond a simple two or single-party system.,We should adopt a multi-party system,train,1,0.955465458,1,1
+A multiparty system reduces tactical voting (voting for a particular person or political party in order to prevent someone else from winning).,We should adopt a multi-party system,train,0.958045716,0.997785295,1,1
+a multi-party system results in so many different platforms that there is no cohesion and nothing gets accomplished.,We should adopt a multi-party system,train,0.742411176,0.190208843,-1,1
+"a multi-party system spreads votes out to thin,so as one leader can be victorious even though they did not receive the majority of the peoples' votes.",We should adopt a multi-party system,train,0.578222849,0.285577543,-1,0.914308882
+a multi-party system weakens speed of decision making and ensures no progress is made so we should not adopt it.,We should adopt a multi-party system,train,0.916078897,0.853212872,-1,1
+a multi-party system will allow for more exchange of ideas and better development of our government.,We should adopt a multi-party system,train,1,0.959055005,1,1
+a multi-party system will create confusion and deadlock.,We should adopt a multi-party system,train,0.687066512,0.271735791,-1,1
+"a multi-party system will give more people with differing ideas, an opportunity to run for office",We should adopt a multi-party system,train,0.830371061,0.946285567,1,0.881512652
+a multi-party system will help to ensure that more political agendas will be given the chance to represent the people,We should adopt a multi-party system,train,0.856328287,0.977302522,1,1
+a multi-party system will just cause more arguments and political strongholds in our government.,We should adopt a multi-party system,train,0.779476742,0.31556905,-1,1
+a multi-party system will lack real leadership and will mean that policies often end up being diluted or not passed at all as a majority can not be reached.,We should adopt a multi-party system,train,0.862559969,0.884874713,-1,1
+a multi-party system will lead to a better diversity of viewpoints in government.,We should adopt a multi-party system,train,1,0.945395866,1,1
+A multi-party system will make it so that everyone in the country is represented well.,We should adopt a multi-party system,train,1,0.924580657,1,1
+a multi-party system will require large quantities of money that could better be used elsewhere,We should adopt a multi-party system,train,0.786908344,0.466001866,-1,1
+a multi-party system will simply lead to legislative gridlock and nothing will get accomplished.,We should adopt a multi-party system,train,0.945412809,0.828984854,-1,1
+a multi-party system will split the country even more.,We should adopt a multi-party system,train,0.702589116,0.596012927,-1,1
+a multi-party system would allow more people to have their ideas represented.,We should adopt a multi-party system,train,1,0.914551457,1,1
+a multi-party system would allow more views to be heard and more complex debates.,We should adopt a multi-party system,train,1,0.910453524,1,0.897748715
+a multi-party system would be beneficial as more than one political view in government would ensure a fairer outcome.,We should adopt a multi-party system,train,1,0.90695037,1,1
+a multi-party system would be divisive at a time when we need to pursue common interests.,We should adopt a multi-party system,train,1,0.95792538,-1,0.82323645
+a multi-party system would be more representative of the public will.,We should adopt a multi-party system,train,0.9058203,0.951603336,1,1
+a multiparty system would be more representative of the will of the people,We should adopt a multi-party system,train,0.969150329,0.95897196,1,1
+a multi-party system would be too confusing,We should adopt a multi-party system,train,0.685444085,0.044717507,-1,1
+a multiparty system would be too decentralized,We should adopt a multi-party system,train,0.864336177,0.634543772,-1,1
+a multi-party system would breath new life into a system currently dominated by same people and ideas,We should adopt a multi-party system,train,0.639523366,0.99930612,1,1
+"a multi-party system would bring a fairer balance to government, not leading to one extreme of politics or the other.",We should adopt a multi-party system,train,1,0.988567853,1,1
+A multi-party system would bring in a lot more choice of representation for the people living in the country.,We should adopt a multi-party system,train,1,0.978050846,1,1
+a multi-party system would bring more choices for people to speak up and vote.,We should adopt a multi-party system,train,0.87019792,0.854555605,1,1
+A multi-party system would cause more confusion than there already is in the country and cause government to be even less effective.,We should adopt a multi-party system,train,0.935406128,0.806529566,-1,1
+a multi-party system would ensure that there is an equal distribution of ideas in the political venue.,We should adopt a multi-party system,train,0.91347634,0.563288515,1,1
+a multi-party system would give more groups the chance to have their political voices heard,We should adopt a multi-party system,train,1,0.869525782,1,1
+a multi-party system would give voters more choices and even out the playing field.,We should adopt a multi-party system,train,0.866140045,0.642662732,1,0.896335579
+a multi-party system would help bring new ideas,We should adopt a multi-party system,train,0.866668164,0.760426892,1,1
+a multi-party system would help create more options for voters.,We should adopt a multi-party system,train,1,0.997999691,1,1
+"a multi-party system would improve the democratic process by giving more traditionally marginalised views representation, and therefore improve peoples' motivation for voting.",We should adopt a multi-party system,train,1,0.945615451,1,1
+a multi-party system would introduce new ideas,We should adopt a multi-party system,train,0.894703,0.870530821,1,1
+"a multi-party system would lead to invalid elections, with no one winning the majority of votes, thus no one wins",We should adopt a multi-party system,train,0.881089748,0.577434428,-1,1
+A multi-party system would never get anything done as it would be nearly impossible for all of them to come into agreement about anything.,We should adopt a multi-party system,train,0.76275425,0.84375254,-1,0.901630109
+a multi-party system would only lead to in fighting and less getting done.,We should adopt a multi-party system,train,0.797689263,0.831612904,-1,1
+"a multi-party system would pollute the polls.  there would be too many options, meaning none would get the full vote they deserve or need.",We should adopt a multi-party system,train,0.817690101,0.54197249,-1,1
+A multiparty system would require a complete overhaul of our democratic system.,We should adopt a multi-party system,train,0.872383127,0.810221226,-1,0.613538235
+a multi-party system would ruin the country.,We should adopt a multi-party system,train,0.491597239,0.001902021,-1,1
+a multi-party would not work in some countries where there is a monarchy and we should not interfere with stable regimes or try to impose our ideas on others.,We should adopt a multi-party system,train,0.880123458,0.560984675,-1,0.898127924
+a mult-party system makes it too confusing for voters to pick candidates if they each have good platforms,We should adopt a multi-party system,train,0.709754594,0.562315769,-1,1
+a new system would bring new life and create options,We should adopt a multi-party system,train,0.461168863,0.001525191,1,1
+a nuclear free world would ensure humanities survival,We should fight for the abolition of nuclear weapons,train,0.696947013,0.378049128,1,0.903976234
+"a nuclear war would kill everyone and everything on the whole planet, the whole human race would be wiped out, there is no way we would ever come back.",We should fight for the abolition of nuclear weapons,train,0.766533208,0.311613054,1,1
+a one party system is a dictatorship.  russia under communism was a one party system. all people must follow the governments position without an opposing view.,We should adopt a multi-party system,train,0.732322008,0.042573559,1,0.898138046
+"a parent is suppose to love a child no matter they are male or female, the natural way of determination, and sex selection makes children commodities instead of miracles.",We should legalize sex selection,train,0.66292921,0.121096771,-1,1
+a parent knows best what is good for their kid,Homeschooling should be banned,train,0.586731199,0.010378729,-1,0.831465778
+a parent knows their child better than anyone else and can personalize their teaching to that childs personality,Homeschooling should be banned,train,0.886297916,0.949235314,-1,1
+"A patient should be able to decide when they have had enough ""care"".",Assisted suicide should be a criminal offence,train,0.604158949,0.259449173,-1,0.910393298
+a person could be tempted to commit a crime they would not otherwise have done if faced with entrapment practices.,Entrapment should be legalized,train,0.826342973,0.589286598,-1,0.815328974
+a person has a right to state his opinion about how he feels about his country,We should prohibit flag burning,train,0.869753684,0.833258708,-1,0.92899588
+a person has the right to choose cosmetic surgery if they want to and they should not be prevented from doing so.,We should ban cosmetic surgery,train,0.751026656,0.328134217,-1,1
+"a person has the right to end their suffering and if somebody takes pity on them and chooses to help, that person should not be punished.",Assisted suicide should be a criminal offence,train,0.890631196,0.920449898,-1,1
+"A person has to earn money in order support himself/herself. For some, there are no viable alternatives to prostitution. Arresting someone for just trying to survive is unjust.",We should legalize prostitution,train,0.674088216,0.132226148,1,1
+a person is either male or female unless born hermaphrodite so pandering to people who have decided to be gender-neutral is another example of the world gone mad.,We should adopt gender-neutral language,train,0.344633451,0.000134477,-1,0.811871636
+a person needs to be able to choose to work as long as they are well enough to do so.,We should end mandatory retirement,train,0.863383353,0.922385973,1,1
+"a person or business has a right to profit or use their own invention, idea, process etc without fearing someone stealing it.",We should abolish intellectual property rights,train,0.871600783,0.89475838,-1,1
+a person should be able to bear arms to protect themselves and anyone around them,We should abolish the right to keep and bear arms,train,0.398813273,0.080294178,-1,1
+a person should be able to choose if they want to remain a virgin without persecution.,The vow of celibacy should be abandoned,train,0.570609946,0.006070527,-1,0.696954155
+a person should be able to choose who they want to spend their life with,We should legalize polygamy,train,0.51149119,0.01915452,1,1
+a person should be allowed to choose a natural approach to curing their disease.  especially one that has existed since the 1700's.,Homeopathy brings more harm than good,train,0.731694313,0.244315353,-1,1
+a person should be allowed to choose what happens to their bodies,We should ban cosmetic surgery for minors,train,0.911951651,0.970656159,-1,1
+a person should decide what to do with their bodies not the government. if they desire to seek alternative medicine they should be free to do so,We should ban naturopathy,train,0.831858851,0.631405264,-1,1
+a person should have the dignity to choose how they die,Assisted suicide should be a criminal offence,train,0.921720042,0.782977717,-1,1
+a person should have the right to be able to choose if they want to live or die,Assisted suicide should be a criminal offence,train,0.616712147,0.078370879,-1,1
+a person should have the right to die on their own terms,Assisted suicide should be a criminal offence,train,0.864893545,0.413649431,-1,0.901588035
+"a person should not be forced into having to live their lives suffering, when death is already enevitable",Assisted suicide should be a criminal offence,train,0.627602473,0.378713647,-1,1
+a person uses his imagination and hard work to write as book or music.  they should be able to benefit from their work.  it should not be in the public domain.,We should abolish intellectual property rights,train,1,0.74012036,-1,0.801940805
+a person who does a great job deserves to get extra income,We should limit executive compensation,train,0.440552536,0.058868709,-1,1
+"a person who is terminally ill and suffering should be given the right to end his suffering, under medical supervision.",Assisted suicide should be a criminal offence,train,0.811038703,0.871048742,-1,0.927850398
+a person who receives a vocational education earns less over his or her lifetime than someone with a college degree.,We should subsidize vocational education,train,0.465574198,0.073373701,-1,0.904523047
+a person's education should be the responsibility of themselves,We should subsidize student loans,train,0.661939315,0.077158212,-1,0.787461683
+a persons identity is based on their gender and it should be acknowledged or it could prove offensive.,We should adopt gender-neutral language,train,0.390906011,0.0017735,-1,0.706207752
+a person's value should not be based on a number.  just because you reach a certain age does not mean you do not want or need to work.  mandatory retirement hurts elderly workers.,We should end mandatory retirement,train,0.814907669,0.408737575,1,1
+a piece of paper does not keep people together,We should abandon marriage,train,0.541369958,0.004946935,1,0.890538851
+a poll shows that more than 90% of the people are in support of a multi-party system in the usa.,We should adopt a multi-party system,train,0.728512315,0.358175905,1,1
+a priest chooses to make a vow to god to be celibate.  he is not forced.  if he chooses to become a priest he makes this vow.  we should not try to take this away from becoming a priest.,The vow of celibacy should be abandoned,train,0.650541542,0.326624757,-1,1
+a prisoner camp should be based in the us so it can be fully governed by american laws.,We should close Guantanamo Bay detention camp,train,0.567800111,0.006416511,1,0.899230755
+"a probable history of criminal activity is not evidence that it has taken place, and entrapment is by definition encouraging criminal activity, perhaps where none would otherwise take place.",Entrapment should be legalized,train,0.92193974,0.797647349,-1,0.806839317
+a range of opinions may be better than  facts.,We should limit judicial activism,train,0.392286786,7.16E-05,-1,0.826240301
+a research carried out on a selected group of unmarried and divorced women found out that they preferred a lone life than an abusive marriage.,We should abandon marriage,train,0.528664846,0.004080969,1,1
+a safe space does not permit discussion on anything that might inform uneducated people why their views are wrong,We should abolish safe spaces,train,0.892167944,0.576760256,1,0.766472624
+a safe space is a great place for youth to hang out so that they are not in dangerous places.,We should abolish safe spaces,train,0.645593292,0.341311724,-1,1
+a safe space is only necessary if students aren't taught proper behavior,We should abolish safe spaces,train,0.456152001,3.63E-05,1,0.805152361
+a safe space might mean the difference between coping and not coping with mental health.,We should abolish safe spaces,train,0.615490144,0.250001167,-1,0.605007672
+"a sick person should be allowed to try anything they want, long as it's legal, that claims it will help them with their ailment.",We should ban naturopathy,train,0.8308699,0.755624619,-1,1
+a single judge cannot be granted free rein to bypass laws borne from democratic process,We should limit judicial activism,train,0.876359875,0.995667521,1,1
+a society should help the most vulnerable of us,We should subsidize stay-at-home dads,train,0.378825477,0.000808653,1,0.7999212
+a society shouldn't be responsible for the decisions of an individual,We should subsidize stay-at-home dads,train,0.805914164,0.847250891,-1,1
+a song or writing are works of art and their creators should benefit from  them,We should abolish intellectual property rights,train,0.686693017,0.257015919,-1,1
+A state that outlaws murder cannot then turn around and murder prisoners in the name of the law. It is perverse and unjust.,We should abolish capital punishment,train,0.741187872,0.977550325,1,1
+a stay at home dad does so by choice. taxpayers shouldn't be forced to pay for other people's expenses because someone decided they didn't want to get a job.,We should subsidize stay-at-home dads,train,0.924105642,0.974445451,-1,1
+a student does not have the resources to pay for the high cost of college,We should subsidize student loans,train,0.765590936,0.868200005,1,1
+a student loan is a loan that the person chose to take out.  there's no reason to offer a subsidy for them any more than any other type of loan.,We should subsidize student loans,train,0.733882808,0.560504372,-1,1
+"a study comparing more than 22,000 former foster children with their age-matched peers found that the former group had  higher risk of  suicide attempts, risk of psychiatric disorders, and excess risks for psychosis and depression",Foster care brings more harm than good,train,1,0.997513524,1,1
+"A surgeon would never agree to operate on a really young child or when it's dangerous, so the only kid's getting cosmetic surgery are those who are in their late teens and understand the outcomes.",We should ban cosmetic surgery for minors,train,0.434810062,0.000900891,-1,0.686846707
+a surrogate carrying a baby could try to keep it since they gave birth to it.,Surrogacy should be banned,train,0.613191308,0.084822249,1,0.896633775
+a surrogate will often choose to carry a child for someone else if they are unable to get work,Surrogacy should be banned,train,0.463984971,0.001347336,-1,0.610262521
+a system of compulsory voting would mean that politicians would have to consider the needs of the whole electorate rather than just those who turn out to vote,We should introduce compulsory voting,train,0.914438032,0.97053363,1,0.965133008
+A system that fires the competent along with the incompetent solely because of age is irrational and cruel,We should end mandatory retirement,train,0.756676821,0.96931628,1,1
+a talented child should be able to pursue their dreams and help make a story come to life.,We should ban the use of child actors,train,0.734683823,0.543294494,-1,1
+"a teen's body sometimes causes great distress, such as small breasts, exacerbated by bullying, teasing etc so cosmetic surgery could relieve large amounts of stress and unhappiness from some teenager's lives",We should ban cosmetic surgery for minors,train,0.656898482,0.226468351,-1,1
+a telemarketing ban violates the first amendment rights of the telemarketer.,We should ban telemarketing,train,0.819821691,0.492331625,-1,0.893057544
+A terrorist group with a nuclear weapon could cause immense and immediate damage and devastation.,We should fight for the abolition of nuclear weapons,train,1,0.999736433,1,1
+A truly healthy and loving relationship can only develop in a monogamous relationship.,We should legalize polygamy,train,0.590797641,0.305894134,-1,1
+a two party system provides discussion on different viewpoints,We should adopt a multi-party system,train,0.520030474,0.002641018,1,0.694710104
+a two-party system has served us well for years; why change what has worked?,We should adopt a multi-party system,train,0.736529549,0.353406479,-1,0.81226793
+a very high percentage of crashes are caused by distracted or drunk driving and with machines they can't be distracted or drunk,We should stop the development of autonomous cars,train,0.724949625,0.871796062,-1,0.901733268
+"a view could be taken that where there is over population of whales, whaling could be beneficial to the eco system.",We should ban whaling,train,0.953560599,0.999889752,-1,0.928638126
+"a vow of celibacy does nothing but cause issues inside religious groups, such as that of young boys and priests.",The vow of celibacy should be abandoned,train,0.839443468,0.691433546,1,1
+a vow of celibacy is a difficult vow to keep and as such proves a real dedication. it should be up to an individual to decide if this is how they wish to show their beliefs.,The vow of celibacy should be abandoned,train,0.820317247,0.884512847,-1,0.70396107
+a vow of celibacy is an archaic stricture that limits the freedoms of priests and harms their relationship with the world as they are less relatable to normal people and are suppressing their natural drives.,The vow of celibacy should be abandoned,train,1,0.930285572,1,0.906327725
+a vow of celibacy is an individuals right as it affects no one but that person that makes the vow.,The vow of celibacy should be abandoned,train,0.680475333,0.298835325,-1,0.899696268
+a vow of celibacy is necessary to the clergy so they can focus every bit of their lives to the church and to god without human distractions.,The vow of celibacy should be abandoned,train,0.787214236,0.577275147,-1,1
+a vow of celibacy is so outdated it has no place in modern society,The vow of celibacy should be abandoned,train,0.852449471,0.33511638,1,1
+a vow of celibacy only causes mental anguish and harm to a person,The vow of celibacy should be abandoned,train,0.820222011,0.961593885,1,1
+a vow of celibacy strengthens a persons character and beliefs.,The vow of celibacy should be abandoned,train,0.923477951,0.958881381,-1,0.927041723
+a well informed population is always better for the voting process and democracy. forcing populations to vote undermines the well of free people and should not be adopted.,We should introduce compulsory voting,train,0.75253655,0.481987608,-1,1
+"A woman can and should decide on her own what to do with her body, and how she would like to use it. It's not the business of the government.",Surrogacy should be banned,train,0.725740366,0.890193165,-1,1
+a woman giving birth to someone else's child will cause that child to grow up and not understand who their mother is.   it can lead to major depression and a very unhealthy lifestyle.,Surrogacy should be banned,train,0.901183309,0.879490855,1,1
+a woman should be free to use her body how she sees fit to make money,Surrogacy should be banned,train,0.59525446,0.319684462,-1,1
+a woman should have the right to sell her body in any way she deems acceptable.,We should legalize prostitution,train,0.795701183,0.369188044,1,0.887257565
+a woman should have the right to use her body however she wants to support herself.,We should legalize prostitution,train,1,0.985553763,1,1
+a woman that is okay with selling her body is going to do it anyway so might as well make it legal.,We should legalize prostitution,train,0.707295715,0.310396308,1,1
+a woman's body is her choice and this includes the decision to assist couples in having a child.,Surrogacy should be banned,train,0.980004597,0.960060532,-1,1
+A woman's body is her own and banning prostitution is just another way for the men in powerful positions to control our bodies.,We should legalize prostitution,train,0.872779559,0.977554622,1,1
+A worker should not be forced to retire if he feels he can still adequately produce for his employer.,We should end mandatory retirement,train,0.936995958,0.95829419,1,0.691618905
+"a year ago i did a survey in the school referring to this topic, and 25% of people tend to suffer this, it would be a good reason to legalize it because i reiterate we must all be happy.",We should legalize sex selection,train,0.057788792,1.10E-06,1,0.717411626
+"a zoo brings animals to the people to see, learn and appreciate.  most zoos are in large cities where children do not get to see wildlife.  zoos help in the appreciation by people of all the species.",We should abolish zoos,train,0.800332243,0.814803503,-1,1
+a zoo is a safe place for animals who lost their homes and are not able to care for themselves,We should abolish zoos,train,0.844799889,0.473841438,-1,1
+a zoo provides care for animals that are separated from their families,We should abolish zoos,train,0.830527397,0.37120032,-1,0.907690944
+a zoo takes an animal out of its natural environment and puts it in a cage.  it is not allowed to roam or to catch prey.  animals should be allowed to live in the places where they have existed not a cage.,We should abolish zoos,train,0.888527845,0.964449706,1,1
+a zoo's whole business model is take animals from their natural habitats and exploit them for money,We should abolish zoos,train,0.911454702,0.91272349,1,1
+abandon marriage is wrong by so many means and violate our connection with god.,We should abandon marriage,train,0.21741686,0.008557616,-1,1
+abandoning marriage allows for people to grow as themselves without the weight of a relationship,We should abandon marriage,train,1,0.6682181,1,1
+Abandoning marriage means no ugly divorce battle if things don't work out.,We should abandon marriage,train,0.332464012,0.000181619,1,1
+"abandoning television would encourage people to do other more beneficial activies such as reading, socialising, being outdoors and otherwise healthier pursuits.",We should abandon television,train,1,0.974311671,1,1
+abandoning television would make people have to get up and get exercise.,We should abandon television,train,0.836727587,0.337463441,1,0.826717979
+abandoning the vow goes against many people's religious beliefs,The vow of celibacy should be abandoned,train,0.60460772,0.004124835,-1,0.92902758
+Abandoning the vow of celibacy could result in more people engaging in reckless sexual activity.,The vow of celibacy should be abandoned,train,0.737549477,0.166598831,-1,1
+Abandoning weddings would offend many religious couples for whom the wedding is an important religious ceremony.,We should abandon marriage,train,0.845564466,0.713430633,-1,1
+"Able students are afraid to continue education due to the prohibitive cost of loans, these students could be the answer to curing cancer etc. We need to ensure no one misses out because of cost.",We should subsidize student loans,train,0.787601713,0.701355796,1,1
+abolish capital punishment so that we never put an innocent person to death,We should abolish capital punishment,train,0.84978868,0.619687052,1,1
+"Abolishing capital punishment is impossible. It is mostly used today by dictatorial countries and religious monarchies, and they don't obey world norms and suggested human rights",We should abolish capital punishment,train,0.620735089,0.024445796,-1,0.895759423
+"Abolishing capital punishment means the victims' families will pay their taxes to support offenders who ruined their and their loved ones'  lives. There is nothing merciful or humane in this; it is a sick, cruel joke.",We should abolish capital punishment,train,0.689006256,0.051385973,-1,1
+Abolishing death penalty means abandoning the poor -who suffer the most from high crime rates -  only so that the elites could feel good about themselves.,We should abolish capital punishment,train,0.63442682,0.001999911,-1,0.928471509
+abolishing intellectual property rights allows people to do great things.,We should abolish intellectual property rights,train,0.819656055,0.127449194,1,1
+abolishing intellectual property rights ensures a fair shot for everybody.,We should abolish intellectual property rights,train,0.533393567,0.011734937,1,1
+abolishing intellectual property rights is the wrong move.  people and businesses should be allowed to keep their ideas and products for themselves not freely give them to others to make money off of.,We should abolish intellectual property rights,train,0.860726931,0.751436817,-1,1
+"abolishing intellectual property rights on pharmaceuticals will saves lives, making drugs more accessible.",We should abolish intellectual property rights,train,1,0.95439062,1,1
+abolishing intellectual property rights removes the financial incentive to innovation.,We should abolish intellectual property rights,train,0.946259588,0.936704894,-1,0.698204142
+abolishing intellectual property rights will give people more access to information,We should abolish intellectual property rights,train,0.848285533,0.885392181,1,1
+abolishing intellectual property rights will help people to use everything what can find it useful without worry about copyrights.,We should abolish intellectual property rights,train,0.554003494,0.014920841,1,0.888116111
+abolishing intellectual property rights would damage the economy since there would be less incentive to bring new and innovative products to market,We should abolish intellectual property rights,train,0.902038799,0.831139358,-1,1
+Abolishing intellectual property rights would help promote creativity.,We should abolish intellectual property rights,train,0.827206857,0.32268728,1,1
+Abolishing intellectual rights could allow someone to capitalize off another person's hard work.,We should abolish intellectual property rights,train,0.935381069,0.969521476,-1,0.901317235
+abolishing ip rights would lead to a boon in innovation as people would be free to create without restrictions.,We should abolish intellectual property rights,train,0.910307052,0.929827926,1,1
+Abolishing it will not prevent people from obtaining guns.,We should abolish the right to keep and bear arms,train,0.43347572,0.001989745,-1,0.892680717
+Abolishing mandatory retirement can reduce welfare expenditure and increase self-reliance,We should end mandatory retirement,train,0.907162426,0.930074478,1,0.897684023
+Abolishing mandatory retirement sends a strong message about the importance of ending age discrimination,We should end mandatory retirement,train,0.902970207,0.999831745,1,1
+abolishing nuclear weapons is a good action to take. nuclear weapons are dangerous and could expose the planets to extreme destruction,We should fight for the abolition of nuclear weapons,train,0.764710046,0.660067023,1,1
+Abolishing nuclear weapons is an unrealistic goal. The technology exists and it will be used.,We should fight for the abolition of nuclear weapons,train,0.657185845,0.219102064,-1,1
+"Abolishing nuclear weapons is the only way to ensure that those weapons never fall in the hands of nefarious actors, such as terrorist organizations.",We should fight for the abolition of nuclear weapons,train,1,0.989029575,1,1
+Abolishing nuclear weapons would be a first step toward world peace.,We should fight for the abolition of nuclear weapons,train,0.63135352,0.579231754,1,0.900011176
+Abolishing nuclear weapons would benefit all of humanity.,We should fight for the abolition of nuclear weapons,train,0.816660287,0.432377189,1,1
+"Abolishing nuclear weapons would diffuse existing tensions between a number of nuclear states, such as Israel and Iran, the USA and North Korea, and India and Pakistan.",We should fight for the abolition of nuclear weapons,train,0.89052682,0.931225112,1,0.896717742
+abolishing nuclear weapons would put us at greater risk.,We should fight for the abolition of nuclear weapons,train,0.695537926,0.085440826,-1,0.816716606
+abolishing safe places will put many people at risk of harm.,We should abolish safe spaces,train,0.795175808,0.33049822,-1,0.895929259
+abolishing safe spaces has to be recognized because people who has such a problems already have support from institutions and doctors.,We should abolish safe spaces,train,0.567173297,0.019706761,1,0.789781137
+abolishing safe spaces helps to get people out and about.,We should abolish safe spaces,train,0.358547491,6.82E-05,1,1
+abolishing the right to keep and bear arms will remove a lot of guns off the street and keep people safer.,We should abolish the right to keep and bear arms,train,1,0.999329566,1,1
+abolishing the right to keep and bear arms would put all innocent people at risk because people who want to kill will find a way to do so and innocent people will be defenseless,We should abolish the right to keep and bear arms,train,0.93849024,0.906423529,-1,1
+abolishing the right to keep and bear arms would save lives and change the destructive gun culture that we see in some countries.,We should abolish the right to keep and bear arms,train,0.892913516,0.796682259,1,1
+abolishing would lead to a drop in innovation and advancement because there would be no benefit to developing new ideas if they could be used by others without them having to do the  work.,We should abolish intellectual property rights,train,0.805101306,0.862070529,-1,1
+"abolition is futile.  there will be some countries that refuse to comply, which will mean only terrorist counties will have these devestatingly destructive weapons",We should fight for the abolition of nuclear weapons,train,1,0.921300749,-1,0.928893363
+abolition of nuclear weapons is an essential part of creating world peace. no nation should possess the power to entirely annihilate another with such long-term destructive weapons.,We should fight for the abolition of nuclear weapons,train,1,0.986298577,1,1
+Absolute judgments may lead to people paying for crimes they did not commit,We should abolish capital punishment,train,0.900663164,0.91835502,1,1
+absolutely not.  the great president donald trump is turning the country around and saving us from the financial disaster that the last eight years were leading the united states towards.,We should adopt an austerity regime,train,0.589193205,0.032580835,-1,0.928156328
+absolutely supporting legalizing sex selection as some parents not able to have male or female kids so having a choice to choose the gender of next kid is absolutely amazing.,We should legalize sex selection,train,0.763665778,0.244205098,1,1
+absolutely this should be illegal and punishable.,We should prohibit flag burning,train,0.139934678,1.32E-05,1,1
+absolutely wrong to ban homeschooling because that helping kids to archive their success at school.,Homeschooling should be banned,train,0.541643538,0.005048092,-1,1
+"abuse and bullying are rife among foster children
+it does not provide stability just temporary solutions",Foster care brings more harm than good,train,1,0.908414259,1,1
+academic education has been promoted at the expense of vocational education and this needs to be re-balanced by subsidizing vocational education.,We should subsidize vocational education,train,1,0.99864958,1,1
+"acceptance into college and if jobs should be based on merit, not the race of the applicant. affirmative action perpetuates the very thing it's designed to fight.",We should end affirmative action,train,0.914625353,0.737488974,1,0.895458926
+access to information is a crucial right for a voter in a democratic society,We should subsidize journalism,train,0.75837752,0.851375948,1,0.89326954
+"Accidents due to causes like driver error, distracted driving, and intoxication, for example, would be eliminated if everyone had an autonomous car,",We should stop the development of autonomous cars,train,0.943004356,0.948604078,-1,1
+"According to multiple studies, children who go through the foster care system are more likely to deal with mental health issues and disorders than their peers.",Foster care brings more harm than good,train,0.838271652,0.70130822,1,0.789003496
+according to science there are two genders so the current language is sufficient,We should adopt gender-neutral language,train,0.629092671,0.137062265,-1,0.896478944
+"According to the American Cancer Society, ""scientific evidence does not support claims that naturopathic medicine can cure cancer or any other disease"".",We should ban naturopathy,train,0.775846594,0.98020648,1,1
+achieving high levels of education is positive for the nation,We should subsidize vocational education,train,0.440988325,0.000848856,1,0.404448486
+acting at a young age not only gives a child the experience that is needed but it also gives them confidence as well as making money that they can use for later on in life,We should ban the use of child actors,train,0.683829979,0.421584836,-1,1
+"acting can be a very prosperous career, and it would be a shame to take this option away if a child is truly willing to do it.",We should ban the use of child actors,train,0.881373013,0.897522225,-1,1
+acting can be an amazing opportunity  for children which could potentially lead to a full career.,We should ban the use of child actors,train,0.919830269,0.987626351,-1,1
+"acting exposes children to a variety of people and places, giving them valuable life experience they would not receive otherwise.",We should ban the use of child actors,train,0.876856723,0.826103597,-1,1
+acting is an art and not a job so banning the use of children in acting roles is preventing children from exploring their creative ability in that area and should not be banned.,We should ban the use of child actors,train,1,0.877344025,-1,1
+acting is an exhausting profession and deprives children of their childhood,We should ban the use of child actors,train,0.868527735,0.82324861,1,1
+"acting is very trying. it places a huge strain on children, and many end up being abused or using drugs to escape the pressure.",We should ban the use of child actors,train,0.868210782,0.894871374,1,0.902886468
+Acting may be a dream for a child and we do not want to crush their dreams.,We should ban the use of child actors,train,0.737549477,0.166598831,-1,1
+acting on children in films with strong plots could generate traumas in the future,We should ban the use of child actors,train,0.46716579,0.008867886,1,1
+acting puts too much pressure on children and they are too young to handle it,We should ban the use of child actors,train,0.88422158,0.785415612,1,1
+acting takes away the opportunity for a child to be able to live their lives like a normal child,We should ban the use of child actors,train,0.730964432,0.078447131,1,1
+acting takes children away from their education and normal childhood pursuits,We should ban the use of child actors,train,1,0.996702272,1,1
+actingteach kids to adapt to changing situations.,We should ban the use of child actors,train,0.42306201,0.003780947,-1,0.7867549
+activism often leads to corruption in the judicial system,We should limit judicial activism,train,1,0.999966704,1,1
+activist judges are an important part of bringing about legislative change,We should limit judicial activism,train,0.984544371,0.926264604,-1,1
+"activists judges aren't the ones shaping the laws. they're not ""all"" the people for who the laws are voted for. judicial activism has to be limited to only check for overuse of the power by governments",We should limit judicial activism,train,0.876279838,0.041407103,1,1
+acts that benefit the whole population must come before the individual.,We should oppose collectivism,train,0.764174702,0.391554824,-1,0.698831641
+adapting such a practice will abolish the black market where such a trade takes place.,We should legalize organ trade,train,0.916772282,0.772343833,1,0.902467126
+Administering lethal injection violates the Hippocratic oath of doctors.,We should abolish capital punishment,train,0.629759044,0.020405739,1,0.947685558
+Adolescents are still trying to find their place in society. There is an incredible amount of pressure to fit in. Therefore they will feel pressured to choose cosmetic surgery in order to reach this acceptance.,We should ban cosmetic surgery for minors,train,0.871397733,0.896602813,1,0.896394836
+Adolescents have a lot of hormonal changes happening. These fluctuations in hormones can cause rash and emotional decisions that are not rooted in careful consideration - which is vital when deciding to have a cosmetic procedure.,We should ban cosmetic surgery for minors,train,0.871397733,0.970433531,1,0.896394836
+Adopt this language because it is inclusive and adapts to new generations.,We should adopt gender-neutral language,train,0.566332344,0.008530011,1,1
+adopting a austerity regime can actually slow economic growth.,We should adopt an austerity regime,train,0.87173001,0.950309747,-1,0.896654657
+adopting a gender neutral language enables us to speak to each other in a more compassionate and understanding way.,We should adopt gender-neutral language,train,1,0.99998031,1,1
+adopting a gender neutral language may take away from ones identity. gender is part of a persons identity.,We should adopt gender-neutral language,train,1,0.977983514,-1,0.886208387
+adopting a gender neutral language would help stop confusion on what to say.,We should adopt gender-neutral language,train,0.727316182,0.258478382,1,1
+Adopting a gender -neutral language would not be controversial and would not offend anyone.,We should adopt gender-neutral language,train,0.437678022,0.003703784,1,0.912127334
+"Adopting a gender neutral language would not be good in certain settings and situations, like a formal speech.",We should adopt gender-neutral language,train,0.468579727,0.020143237,-1,1
+adopting a multi party system helps keep ideas fresh and gives us choices.,We should adopt a multi-party system,train,1,0.97511429,1,1
+adopting a multi-party system leads to a more consensual style of poltics where broad cross party agreement is necessary to get things done,We should adopt a multi-party system,train,0.827270081,0.494481626,1,0.883820329
+adopting a multi-party system leads to the formation weak and unstable coalition governments,We should adopt a multi-party system,train,0.765568225,0.284444492,-1,1
+adopting a multi-party system would be good for the country.,We should adopt a multi-party system,train,0.524960875,0.005531774,1,1
+adopting a multi-party system would require a costly overhaul to our entire political system and the consequences of such are unpredictable.,We should adopt a multi-party system,train,0.968682441,0.870759049,-1,1
+"adopting a third and even fourth party may complicate the system such that the political system would require a complete overhaul, which would take a long time to get used to.",We should adopt a multi-party system,train,0.662967957,0.524188885,-1,1
+adopting an austerity program will ultimately hurt us more by cutting funding on important programs and increasing our taxes.,We should adopt an austerity regime,train,1,0.90043273,-1,0.927685799
+"adopting an austerity regime is necessary when our country is struggling, it is the only was to ensure a flourishing economy in the future. ending the debt ensures our country does not collapse.",We should adopt an austerity regime,train,1,0.996917279,1,1
+adopting an austerity regime is the best way for the country to reduce its huge debt,We should adopt an austerity regime,train,0.879563388,0.926528257,1,1
+adopting an austerity regime is the best way to pull ourselves out of the situation we currently find ourselves in financially,We should adopt an austerity regime,train,0.918515815,0.328583089,1,1
+adopting an austerity regime is the best way to reduce the budget deficits we currently are faced with,We should adopt an austerity regime,train,1,0.965514411,1,1
+adopting an austerity regime is the only effective means for pulling us out of the economic tailspin we currently face,We should adopt an austerity regime,train,0.863458267,0.666497747,1,0.885922008
+Adopting an austerity regime lowers people's confidence in the economy and discourages investment.,We should adopt an austerity regime,train,0.882294725,0.984332327,-1,1
+"adopting an austerity regime may negatively impact the demand side of the economy, hampering economic growth.",We should adopt an austerity regime,train,0.805170153,0.905379197,-1,1
+adopting an austerity regime will have a negative effect as markets begin to question and doubt,We should adopt an austerity regime,train,0.860704568,0.484462257,-1,0.927534245
+adopting an austerity regime would costs tax payers.,We should adopt an austerity regime,train,0.663820075,0.265724833,-1,1
+"adopting an austerity regime would improve the country and lead to a flourishing economy after reducing out debt, which is greatly needed to continue being a world leader.",We should adopt an austerity regime,train,0.822166586,0.822576918,1,1
+adopting an austerity regime would put undue burden on the taxpayers,We should adopt an austerity regime,train,1,0.849271727,-1,0.89817058
+adopting an austerity regime would reduce government debt.,We should adopt an austerity regime,train,1,0.990715634,1,1
+adopting austerity regime will have very negative impact on the poor and the vulnerable in society.,We should adopt an austerity regime,train,0.959591272,0.627811347,-1,1
+adopting gender neutral language just so a few people that refuse to be associated with the gender of their birth just propogates a way of thinking that should not be allowed further thought.,We should adopt gender-neutral language,train,0.600661047,0.048165104,-1,0.903615018
+adopting gender neutral language respects everyone's gender and may eliminate gender bias.,We should adopt gender-neutral language,train,1,0.994861343,1,1
+adopting gender neutral language would be expensive and a waste of resources which could be better used elsewhere,We should adopt gender-neutral language,train,0.676650269,0.29040985,-1,1
+adopting gender neutral language would make everyone feel welcome no matter how they identify and it hurts no one.,We should adopt gender-neutral language,train,0.92567684,0.999972111,1,1
+adopting gender neutral language would make it easier to be inclusive.,We should adopt gender-neutral language,train,0.809642233,0.576779508,1,1
+adopting gender-neutral language adds a lot of complexity to the language,We should adopt gender-neutral language,train,0.731501093,0.657131749,-1,0.794794902
+adopting gender-neutral language helps the process of cultural change necessary for equality of the sexes,We should adopt gender-neutral language,train,1,0.966671494,1,1
+adopting gender-neutral language ignores the depth and history of language. people are being overly sensitive if they are taking offence where this is none intended.,We should adopt gender-neutral language,train,0.807223433,0.767298666,-1,1
+adopting gender-neutral language is a way to promote acceptance of those that are different,We should adopt gender-neutral language,train,0.812199112,0.476981979,1,1
+adopting gender-neutral language may help reduce sexism.,We should adopt gender-neutral language,train,0.914790717,0.893637827,1,1
+adopting gender-neutral language removes unconscious stereotyping of roles. for example that only men should be postmen.,We should adopt gender-neutral language,train,0.777246555,0.50576973,1,1
+"adopting gender-neutral language will cost lots of money to fix signs, letters, forms, etc.",We should adopt gender-neutral language,train,0.688136906,0.135140223,-1,1
+adopting gender-neutral language would be pandering to the current trend which will soon pass and our language would be left devoid of definitions.,We should adopt gender-neutral language,train,0.905331746,0.731450383,-1,0.909663223
+adopting gender-neutral language would be taking the political-correctness of society a step to far. gender and diversity are to be celebrated not ignored.,We should adopt gender-neutral language,train,1,0.789550317,-1,0.602497597
+adopting gender-neutral language would prevent children from believing they can't do certain things.  for example a girl should be able to have aspirations to be president if she so chose.,We should adopt gender-neutral language,train,0.631776081,0.250688583,1,0.799326135
+adopting now an austerity regime will  sink the local economies and prevent any growth in scientific research for technological  improvement.,We should adopt an austerity regime,train,1,0.824703495,-1,0.927804834
+adopting now an austerity regime will help future generations to cope with the limited  resources  we have.,We should adopt an austerity regime,train,0.813156346,0.349581613,1,1
+adopting this would help the government to reduce its debt,We should adopt an austerity regime,train,0.752835324,0.357232047,1,1
+adult relationships should not be regulated.,We should legalize polygamy,train,0.473337834,0.000957398,1,0.798961308
+adults can’t play children so someone has to.,We should ban the use of child actors,train,0.289629714,0.000182529,-1,0.898926854
+adults have the right to choose who to be in relationships with and how many people in the relationship,We should legalize polygamy,train,0.733550012,0.036283522,1,0.907739104
+adults have the right to do what they please with their own bodies,We should legalize prostitution,train,1,0.860919315,1,1
+adults have the right to do what they want with their own bodies,We should legalize prostitution,train,0.904086378,0.585936244,1,1
+adults should be allowed to make their own medical treatment decisions,We should ban naturopathy,train,1,0.850994078,-1,0.927631834
+adults should have the right to have their preferred lifestyle.,We should legalize polygamy,train,0.895707929,0.87846743,1,1
+adults should have the right to modify their bodies if they wish to,We should ban cosmetic surgery,train,0.874245643,0.615869626,-1,1
+affirmatice action levels the playing field for marginalized sectors of society,We should end affirmative action,train,0.88744313,0.845683567,-1,1
+affirmative  action has helped numerous minorities to reach their dreams,We should end affirmative action,train,0.889123425,0.899119568,-1,1
+affirmative action  hurts other people more than it helps.,We should end affirmative action,train,0.887476472,0.593980107,1,1
+affirmative action  is still needed when there is inequality in society.,We should end affirmative action,train,1,0.970089026,-1,0.884570091
+"affirmative action actively promotes candidates who would otherwise not be qualified on the basis of their race/ethnicity, sex, or gender identity. this leads to positions being filled by less capable people.",We should end affirmative action,train,0.814296108,0.809421351,1,0.505208414
+affirmative action allows for marginalized groups that would be overlooked otherwise to get a shot.,We should end affirmative action,train,0.526336499,0.023173436,-1,0.79826289
+affirmative action allows for minorities to have a chance in competitive jobs,We should end affirmative action,train,0.804861465,0.681631502,-1,1
+affirmative action allows more diversity in the work or college environment.,We should end affirmative action,train,0.911482069,0.538691607,-1,1
+affirmative action allows people to pursue a career that they may never have considered without help from the program.,We should end affirmative action,train,0.786523492,0.866309429,-1,1
+affirmative action allows those who may be marginalized to progress in the work environment,We should end affirmative action,train,1,0.991627676,-1,0.898337397
+affirmative action allows those who may have been left behind or marginalized to improve themselves,We should end affirmative action,train,0.845037153,0.802800547,-1,1
+affirmative action allows those without the financial resources access to universities that they may otherwise have been locked out of being able to attend.,We should end affirmative action,train,0.975733706,0.850196548,-1,0.822370624
+affirmative action breeds further resentment toward groups of society that are or were the subject of discrimination. equal opportunity is the best approach,We should end affirmative action,train,1,0.886730924,1,1
+affirmative action breeds resentment in the workplace and demoralization in the job market,We should end affirmative action,train,1,0.639161473,1,1
+affirmative action bypasses people who may be highly skilled but as they are not in a protected minority class can be turn down for employment by someone less skilled.,We should end affirmative action,train,1,0.762316224,1,0.89196163
+affirmative action can be considered discriminatory against poor whites,We should end affirmative action,train,0.908129204,0.727839866,1,1
+affirmative action can be counter-productive if people are resentful of the help that the individual has got.,We should end affirmative action,train,0.938778601,0.474997096,1,1
+affirmative action can cause people who have really tried to be passed up by someone of lesser ability.,We should end affirmative action,train,0.80473572,0.432545892,1,0.82155149
+affirmative action can lead to people getting jobs that they are not fully ready to do as they were given opportunities due to specific creteria that are unrelated to the job such as skin colour.,We should end affirmative action,train,0.706492969,0.119345391,1,1
+"affirmative action can lead to people who are less qualified getting positions they would otherwise not be able to achieve,",We should end affirmative action,train,1,0.893261895,1,1
+affirmative action can make it difficult for qualified people to get jobs.,We should end affirmative action,train,0.937768717,0.533456705,1,1
+affirmative action can result in better candidates being rejected because they are not in a minority.,We should end affirmative action,train,1,0.93784558,1,0.905345643
+affirmative action can support under represented groups to eliminate discrimination,We should end affirmative action,train,0.94949792,0.990945187,-1,1
+Affirmative action causes people with the best credentials to lose out on a job because they are not a minority.,We should end affirmative action,train,1,0.96391567,1,0.889274624
+"affirmative action centers on the minority regardless of capability, leaving those in the majority without  equal opportunities regardless of skillful capabilities, it is a form of discrimination in itself.",We should end affirmative action,train,0.948099781,0.999750481,1,0.90351681
+affirmative action corrects for generations of wrong-doing and should not be discarded.,We should end affirmative action,train,1,0.999999509,-1,0.928092838
+"affirmative action costs too much and hasn't changed the distribution of minorities in the socioeconomic system, it should end",We should end affirmative action,train,0.875969304,0.833268042,1,1
+affirmative action creates a diverse environment in the working place which is good for business in terms of creativity and flexibility.,We should end affirmative action,train,0.951535615,0.612334004,-1,1
+Affirmative action creates the perpetual need for affirmative action.,We should end affirmative action,train,0.259670987,0.001061081,1,0.600316657
+Affirmative action demeans the achievements of minority individuals. Success attained through ability and hard work might be viewed by some as simply a result of affirmative action.,We should end affirmative action,train,1,0.984036289,1,1
+affirmative action denies people with the best abilities succeeding due to merit alone and hence should be ended.,We should end affirmative action,train,0.882905739,0.723366586,1,0.905449195
+"Affirmative action diminishes the credit that women and minorities receive for their accomplishments, as people will claim their success is due to systems of affirmative action rather than their own hard work.",We should end affirmative action,train,1,0.822328104,1,1
+"affirmative action discriminates the majority, preventing skilled workers from gaining employment over someone less qualified but considered to be a member of a protected minority group.",We should end affirmative action,train,1,0.938870288,1,1
+affirmative action disrupts that natural order of things,We should end affirmative action,train,0.893506157,0.576592376,1,1
+affirmative action diversifies places and we are all better for it,We should end affirmative action,train,0.917550758,0.698299981,-1,1
+affirmative action does not allow those that have earned their way to progress as they should be able to.  someone of another race my get chosen just because of their race and not because they deserve it.,We should end affirmative action,train,0.886019857,0.753020339,1,1
+affirmative action does not encourage minorities to work for their grades since they know that they will get into college and get jobs whatever they've done in school,We should end affirmative action,train,0.816636049,0.473865995,1,0.90078111
+affirmative action does not treat all races equally,We should end affirmative action,train,0.863776215,0.928462888,1,1
+"Affirmative action doesn't really changes anything, quite the opposite, it perpetuates the inequality in society.",We should end affirmative action,train,0.903244926,0.997901639,1,0.900689621
+"Affirmative action doesn't remove the need to be qualified in order to receive acceptance at a job or university, but rather forces institutions to consider people of diverse backgrounds when they historically haven't.",We should end affirmative action,train,1,0.830710101,-1,0.920298057
+affirmative action ensures a fair representation for all people and it should not be stopped.,We should end affirmative action,train,0.901859152,0.999645235,-1,1
+affirmative action ensures diversity in the workplace.,We should end affirmative action,train,0.913779394,0.842789259,-1,1

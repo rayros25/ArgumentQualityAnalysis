@@ -1,4 +1,4 @@
-argument,topic,set,WA,MACE-P,stance_WA,stance_WA_conf
+text,topic,set,label,MACE-P,stance_WA,stance_WA_conf
 6 million people died so to deny the holocaust should be a crime against their memory,Holocaust denial should be a criminal offence,test,0.738336771,0.483101984,1,1
 a ban would only bring problems in gender equality,We should prohibit women in combat,test,0.721727896,0.696793799,-1,1
 "A centralized system of criminal defense would mean that all people would have access to the same standard of legal counsel, meaning that wealth and power can't be used to avoid justice.",The use of public defenders should be mandatory,test,0.828673954,0.928340008,1,1
