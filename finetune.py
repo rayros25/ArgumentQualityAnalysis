@@ -17,6 +17,8 @@ eval_dataset  = Dataset.from_pandas(df_test, preserve_index=False)
 
 # Tokenize the data
 tokenizer = AutoTokenizer.from_pretrained('bert-base-uncased')
+# Uncomment below to fine-tune the already existing fine-tuned model:
+# tokenizer = AutoTokenizer.from_pretrained('./fine-tuned-bert-tokenizer')
 
 def tokenize_function(examples):
     return tokenizer(examples['text'], padding    = 'max_length', 
@@ -29,6 +31,9 @@ eval_dataset = eval_dataset.map(tokenize_function, batched = True)
 # Load pre-trained BERT model and modify for regression
 model = AutoModelForSequenceClassification.from_pretrained('bert-base-uncased',
                                                            num_labels = 1)
+# Uncomment below to fine-tune the already existing fine-tuned model:
+# model = AutoModelForSequenceClassification.from_pretrained('./fine-tined-bert-model',
+#                                                            num_labels = 1)
 
 
 # Prepare the trainer, then train the model
