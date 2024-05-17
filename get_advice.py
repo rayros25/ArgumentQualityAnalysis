@@ -2,15 +2,15 @@ import os
 from dotenv import load_dotenv
 from openai import OpenAI
 
+# Get keys and connect to OpenAI
 load_dotenv()
-
 client = OpenAI(
     organization = os.environ.get("ORG_ID"),
     project = os.environ.get("PROJ_ID"),
     api_key = os.environ.get("API_KEY"),
 )
 
-
+# get_advice() returns what ChatGPT has to say about the provided argument
 def get_advice(argument, score):
     response = client.chat.completions.create(
         model = "gpt-3.5-turbo",
@@ -25,6 +25,8 @@ def get_advice(argument, score):
     )
     return response.choices[0].message.content
 
+# get_advice_f() is the formatted version of get_advice(). The last prompt can
+# be edited so that the reply is in HTML formatting.
 def get_advice_f(argument, score):
     response = client.chat.completions.create(
         model = "gpt-3.5-turbo",

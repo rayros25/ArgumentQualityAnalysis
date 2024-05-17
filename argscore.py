@@ -2,6 +2,7 @@ from flask import Flask, request, render_template
 import predict_arg_score as pred
 import get_advice as adv
 
+# Preprocessing before handing off to the BERT model
 def clean_up_text(txt):
     return txt.lower()
 
