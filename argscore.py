@@ -5,11 +5,11 @@ app = Flask(__name__)
 
 @app.route('/')
 def my_form():
-    return render_template('basic-form.html')
+    return render_template('form.html', score = "")
 
 @app.route('/', methods=['POST'])
 def my_form_post():
     text = request.form['text']
     answer = pred.get_predicted_arg_score(text.lower())
-    processed_text = str(answer)
-    return processed_text
+    # processed_text = str(answer)
+    return render_template('form.html', score = str(answer))
